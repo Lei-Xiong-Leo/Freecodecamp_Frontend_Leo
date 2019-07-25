@@ -1,0 +1,23 @@
+<styl>
+#main {
+  background-color: gray;
+}
+
+#title{
+  text-align: center;
+  font-style: italic;
+  font-size: 50px;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+#img-caption{
+
+}
+
+
+</styl>

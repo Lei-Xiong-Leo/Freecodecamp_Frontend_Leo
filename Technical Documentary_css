@@ -1,0 +1,11 @@
+@media screen {
+  #navbar{
+    position: fixed;
+    left:0px;
+    top: 0px;
+  }
+  #section_1{
+    position:relative;
+    top: 30px;
+  }
+}

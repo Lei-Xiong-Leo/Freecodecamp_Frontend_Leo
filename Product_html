@@ -1,0 +1,34 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<header id="header">
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="company logo" id="header-img">
+<div><nav id="nav-bar">
+  <a href="#body" class="nav-link">Body</a> |
+  <a href="#footer" class="nav-link">Footer</a> |
+  <a href="#body" class="nav-link">Body</a> |
+  <a href="#footer" class="nav-link">Footer</a>
+</nav></div>
+</header>
+<div id="main">
+  <body id="body">
+  <p>body</p>
+  <div><video src="https://youtu.be/RjcwJZRAMwo" id="video" controls>
+  </video>
+  </div>
+  <div>
+    <form action="https://www.freecodecamp.com/email-submit" id="form">
+      <input type="email" name="email" id="email" placeholder="Please input your email" required><br>
+      <input type="submit" id="submit" value="submit">
+    </form>
+  </div>
+  </body>
+
+  <footer id="footer">
+  <p>footer</p>
+  </footer>
+</html>
+</div>
