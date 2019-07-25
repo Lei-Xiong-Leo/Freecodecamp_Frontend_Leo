@@ -1,0 +1,82 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<main id="main-doc">
+
+  <nav id="navbar">
+    <header>
+      Technical Documentary
+    </header>
+    <a href="#section_1" class="nav-link">section 1</a> |
+    <a href="#section_2" class="nav-link">section 2</a> |
+    <a href="#section_3" class="nav-link">section 3</a> |
+    <a href="#section_4" class="nav-link">section 4</a> |
+    <a href="#section_5" class="nav-link">section 5</a>
+    </nav>
+
+  <section class="main-section" id="section_1">
+<header>
+  section 1
+</header>
+<p>1</p>
+<p>2</p>
+<code>code 1</code>
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
+  </section>
+
+  <section class="main-section" id="section_2">
+<header>
+  section 2
+</header>
+<p>1</p>
+<p>2</p>
+<code>code 2</code>
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
+  </section>
+
+  <section class="main-section" id="section_3">
+<header>
+  section 3
+</header>
+<p>1</p>
+<p>2</p>
+<code>code 3</code>
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
+  </section>
+
+  <section class="main-section" id="section_4">
+<header>
+  section 4
+</header>
+<p>1</p>
+<p>2</p>
+<code>code 4</code>
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
+  </section>
+
+  <section class="main-section" id="section_5">
+<header>
+  section 5
+</header>
+<p>1</p>
+<p>2</p>
+<code>code 5</code>
+<ol>
+  <li>a</li>
+  <li>b</li>
+</ol>
+  </section>
+
+
+</main>

@@ -1,0 +1,20 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!DOCTYPE html>
+<div id="main">
+
+<div id="title">Ben Zhanyi Xiong</div>
+
+<div id="img-div" align="center" >
+  <img id="image" src="https://benzhanyixionghome.files.wordpress.com/2019/04/cropped-wechatimg115.jpeg" alt="This is Ben Xiong's picture">
+  <p id="img-caption">This is one moment when Ben started to learn Chinese handwriting at 5 age.</p>
+</div>
+
+<div id="tribute-info" align="center">
+  <p>tribute-info
+<br>
+This is the link to <a id="tribute-link" href="https://benzhanyixiong.home.blog/" target="_blank">Ben Xiong's blog</a>
+  </p>
+</div>
+
+</div>
