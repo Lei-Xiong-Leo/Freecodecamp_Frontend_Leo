@@ -27,7 +27,7 @@
     <label><input type="checkbox" name="personality" value="lazy"> Lazy</label>
     <label><input type="checkbox" name="personality" value="Energetic"> Energetic</label><br>
 </div>
-<div><p>Any suggestion?</p></div>
+<div><p>Any commit or suggestion?</p></div>
   <textarea name="name" rows="8" cols="80"></textarea><br>
   <button type="submit" id="submit">this button submits the form</button>
 </form>
